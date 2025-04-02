@@ -37,4 +37,6 @@ int main(){
     printf("Sorted Array\n");
     //Sorted Array
     printArray(arr,size);
+
+    return 0;
 }
